@@ -10,7 +10,7 @@
 
 ---
 
-🌱 I’m currently focused on **Backend Development**  
+🌱 Currently building **scalable backend systems & AI-powered applications**  
 💬 Ask me about **DSA, Machine Learning, Deep Learning, LLMs**  
 ⚡ Coordinator at **SALVO - The AI Club of SASTRA University**  
 🏆 Solved **700+ problems on LeetCode (Rating ~1717)**  
