@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreeshanth Ryali</h1>
-<h3 align="center">A passionate backend developer and AI Enthusiast from India</h3>
+<h3 align="center">A passionate backend developer and AI Enthusiast</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Senku3000&label=Profile%20views&color=0e75b6&style=flat" alt="Senku3000" /> 
