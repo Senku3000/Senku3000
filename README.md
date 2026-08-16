@@ -14,7 +14,7 @@
 💬 Ask me about **DSA, Machine Learning, Deep Learning, LLMs**  
 ⚡ Coordinator at **SALVO - The AI Club** of SASTRA University  
 🏆 **Rated 1741** on LeetCode  
-♟️ **Rated 2450+** on Lichess (~99.9 percentile)  
+♟️ **Rated 2450+** on Lichess 
 
 ---
 
